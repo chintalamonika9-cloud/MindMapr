@@ -1,7 +1,7 @@
 # 🧠 MindMapr – Smart Revision Assistant
 
 > PBL Project | Narsimha Reddy Engineering College  
-> Built with Python | Console-based application
+> Built with Python 
 
 ---
 
@@ -16,7 +16,7 @@ such as lists, dictionaries, loops, file handling, and modular programming.
 ## 🚀 How to Run
 
 ```bash
-python mindmapr.py
+python mindmapr_ui.py
 ```
 
 No external libraries needed — uses only Python's standard library.
@@ -72,8 +72,8 @@ User → Menu Controller → Output Display
 
 ```
 PBL1/
-├── mindmapr.py          ← Main application
-├── mindmapr_data.json   ← Auto-created on first run
+├── mindmapr_ui.py          ← Main application
+├── mindmapr_data.json ← Auto-created on first run
 ├── report_YYYYMMDD.txt  ← Auto-generated reports
 └── README.md            ← This file
 ```
