@@ -1,0 +1,17 @@
+MindMapr – Smart Revision Assistant
+Report Generated: 2026-11-03 21:43
+============================================================
+
+[1] Python
+    Topic    : Lists
+    Priority : High
+    Status   : Pending
+    Notes    : a list is a built-in, mutable, and ordered data structure used to store multiple items in a single variable.  Lists are defined using square brackets [] and can contain heterogeneous data types, including integers, strings, booleans, and other lists.
+    Updated  : 2026-11-03 21:29
+
+[2] Computer Network
+    Topic    : OSI Model
+    Priority : High
+    Status   : In Progress
+    Notes    : OSI Model consists of 7 layers
+    Updated  : 2026-11-03 21:01

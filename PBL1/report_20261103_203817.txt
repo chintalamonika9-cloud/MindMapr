@@ -1,0 +1,11 @@
+MindMapr – Smart Revision Assistant
+Report Generated: 2026-11-03 20:38
+============================================================
+
+[1] Python Lists
+    Category : Python Basics
+    Priority : High
+    Status   : Pending
+    Notes    : Revise slicing and list comprehensions
+    Created  : 2026-11-03 20:00
+    Updated  : 2026-11-03 20:00
